@@ -1,0 +1,61 @@
+/* Background color  */
+.bg-primary{
+    background-color: #7A1223;
+}
+.bg-accent{
+    background-color: #CFA66A;
+}
+.bg-Off-white{
+    background-color: #FFF9F4;
+}
+.bg-Neutral-Gray{
+    background-color: #4A4A4A;
+}
+
+/* text color  */
+
+.text-primary{
+    color: #7A1223;
+}
+.text-accent{
+    color: #CFA66A;
+}
+.text-Off-white{
+    color: #FFF9F4;
+}
+.text-Neutral-Gray{
+    color: #4A4A4A;
+}
+
+/* border */
+
+.border-primary{
+    border: #7A1223;
+}
+.border-accent{
+    border: #CFA66A;
+}
+.border-Off-white{
+    border: #FFF9F4;
+}
+.border-Neutral-Gray{
+    border: #4A4A4A;
+}
+
+/* Button  */
+
+.primary-btn{
+  background-color: #7A1223;
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 8px;
+  border: 2px;
+}
+
+.secondary-btn{
+    background-color: transparent;
+    border: 2px solid #CFA66A;
+    color: #7A1223;
+    padding: 12px 24px;
+    border-radius: 8px;
+}
